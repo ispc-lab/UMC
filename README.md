@@ -6,7 +6,7 @@
 
 [Tianhang Wang](https://github.com/TianhangWang), [Guang Chen](https://ispc-group.github.io/)†, [Kai Chen](https://github.com/Flawless1202), [Zhengfa Liu](https://liuzhengfa88.github.io/), Bo Zhang, Alois Knoll, Changjun Jiang
 
-#### **[Paper (arXiv)](https://arxiv.org/abs/2303.12400) | [Paper (ICCV)](https://arxiv.org/abs/2303.12400) | [Project Page](https://dyfcalid.github.io/NeuralPCI)  | [Video](https://arxiv.org/abs/2303.12400) | [Talk](https://arxiv.org/abs/2303.12400) | [Slides](https://arxiv.org/abs/2303.12400) | [Poster](https://arxiv.org/abs/2303.12400)**  
+#### **[Paper (arXiv)](https://arxiv.org/abs/2303.12400) | [Paper (ICCV)](https://arxiv.org/abs/2303.12400) | [Project Page](https://tianhangwang.github.io/UMC/)  | [Video](https://arxiv.org/abs/2303.12400) | [Talk](https://arxiv.org/abs/2303.12400) | [Slides](https://arxiv.org/abs/2303.12400) | [Poster](https://arxiv.org/abs/2303.12400)**  
 
 <!-- TABLE OF CONTENTS -->
 <details open="open" style='padding: 10px; border-radius:5px 30px 30px 5px; border-style: solid; border-width: 1px;'>
@@ -51,10 +51,14 @@
 **UMC**, optimizing the communication, collaboration, and reconstruction processes with the **M**ulti-resolution technique.
 
 <p align="center">
-<img src="img\framework.png" width=90% >
+<img src="img\intro.png" width=90% >
 </p>
 
 - The communication introduces a novel trainable multi-resolution and selective-region (MRSR) mechanism, achieving higher quality and lower bandwidth. Then, a graph-based collaboration is proposed, conducting on each resolution to adapt the MRSR. Finally, the reconstruction integrates the multi-resolution collaborative features for downstream tasks.
+
+<p align="center">
+<img src="img\framework.png" width=90% >
+</p>
 
 ## Get Started
 
@@ -63,6 +67,23 @@
 ## Pretrained Model
 
 ## Visualization
+
+<p align="center">
+<img src="img\compare_2.png" width=90% >
+</p>
+
+
+<p align="center">
+<img src="img\compare_1.png" width=90% >
+</p>
+
+<p align="center">
+<img src="img\v2xsim_results.png" width=90% >
+</p>
+
+<p align="center">
+<img src="img\opv2v_results.png" width=90% >
+</p>
 
 ## Citation
 
