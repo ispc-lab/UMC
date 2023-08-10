@@ -68,18 +68,24 @@
 
 ## Visualization
 
+* Detection and communication selection for Agent 1. The green and red boxes represent the ground truth (GT) and predictions, respectively. (a-c) shows the results of no fusion, early fusion, and UMC compared to GT. (d) The coarse-grained collaborative feature of Agent 1. (e) Matrix-valued entropy-based selected communication coarse-grained feature map from Agent 2. (f) The fine-grained collaborative feature of Agent 1. (g) Matrix-valued entropy-based selected communication fine-grained feature map from Agent 2.
 <p align="center">
 <img src="img\compare_2.png" width=90% >
 </p>
 
+* UMC qualitatively outperforms the state-of-the-art methods. The green and red boxes denote ground truth and detection, respectively. (a) Results of When2com. (b) Results of DiscoNet. (c) Results of UMC. (d)-(e) Agent 1's coarse-grained and fine-grained collaborative feature maps, respectively.
 
 <p align="center">
 <img src="img\compare_1.png" width=90% >
 </p>
 
+* Detection results of UMC, Early Fusion, When2com, V2VNet and DiscoNet on V2X-Sim dataset.
+
 <p align="center">
 <img src="img\v2xsim_results.png" width=90% >
 </p>
+
+* Detection results of UMC, Early Fusion, Where2comm, V2VNet and DiscoNet on OPV2V dataset.
 
 <p align="center">
 <img src="img\opv2v_results.png" width=90% >
@@ -99,5 +105,5 @@ If you find our code or paper useful, please cite
 
 ## Acknowledgements
 
-* We thanks for the following wonderful open source codes: ![Static Badge](https://img.shields.io/badge/DiscoNet|Yiming_Li-NIPS2021-blue) ![Static Badge](https://img.shields.io/badge/OpenC00D|Runsheng_Xu-ECCV2022-blue).
+* We thanks for the following wonderful open source codes: ![Static Badge](https://img.shields.io/badge/DiscoNet|Yiming_Li-NIPS2021-blue) ![Static Badge](https://img.shields.io/badge/OpenC00D|Runsheng_Xu-ECCV2022-blue)
 
