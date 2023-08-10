@@ -78,5 +78,5 @@ If you find our code or paper useful, please cite
 
 ## Acknowledgements
 
-* We thanks for the following wonderful open source codes: ![Static Badge](https://img.shields.io/badge/DiscoNet|Yiming_Li-NIPS2021-blue) ![Static Badge](https://img.shields.io/badge/OpenC00D|Rensheng_Xu-ECCV2022-blue).
+* We thanks for the following wonderful open source codes: ![Static Badge](https://img.shields.io/badge/DiscoNet|Yiming_Li-NIPS2021-blue) ![Static Badge](https://img.shields.io/badge/OpenC00D|Runsheng_Xu-ECCV2022-blue).
 
